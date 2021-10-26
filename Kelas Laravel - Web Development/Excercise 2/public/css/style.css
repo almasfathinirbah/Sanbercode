@@ -1,0 +1,55 @@
+h3{
+    color: blue;
+}
+
+body{
+    background-image: url(../img/pattern.jpg);
+}
+
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin: 10px;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    background-color: white;
+    margin: 75px 250px 20px 250px;
+    padding: 20px;
+}
+
+article{
+    border-bottom: 2px solid grey;
+    margin: 40px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    padding: 0.25px;
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
